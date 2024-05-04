@@ -1,4 +1,4 @@
-# playbook
+# Playbook
 ## Small Audiobook Player
 
 ## Goal :star2:
